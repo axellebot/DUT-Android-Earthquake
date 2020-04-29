@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Earthquake</string>
+
+    <string name="action_settings">Paramètre</string>
+    <string name="action_save">Sauvegarder</string>
+    <string name="action_filter_favs">Montrer les favoris</string>
+    <string name="action_open">Ouvrir</string>
+    <string name="action_search">Chercher</string>
+    <string name="action_edit">Modifier</string>
+    <string name="action_last_hour">Heure</string>
+    <string name="action_last_day">Jour</string>
+    <string name="action_last_month">Mois</string>
+
+    <string name="navigation_drawer_open">Ouverture du drawer</string>
+    <string name="navigation_drawer_close">Fermeture du drawer</string>
+
+    <string name="nav_other">Autre</string>
+    <string name="nav_info">Information</string>
+    <string name="nav_share">Partager</string>
+    <string name="nav_tools">Outils</string>
+    <string name="nav_import">Importer</string>
+
+    <string name="title_activity_maps">Carte</string>
+    <string name="no_internet_info">Aucune connexion internet</string>
+
+    <string name="add_fav_message">Ajouté aux favoris</string>
+    <string name="delete_fav_message">Supprimé des favoris</string>
+
+    <string name="info_id">Id :</string>
+    <string name="info_magnitude">Magnitude :</string>
+    <string name="info_name">Nom :</string>
+    <string name="info_date">Date :</string>
+    <string name="info_update">Mise à jour :</string>
+    <string name="info_tsunami">Tsunami :</string>
+    <string name="info_place">Lieu :</string>
+    <string name="info_sources">Sources :</string>
+</resources>
